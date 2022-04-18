@@ -1,6 +1,5 @@
 ## LZL 🛌
 
-- 🐧 腾讯全栈攻城狮，腾讯云云开发高级布道师，全网百万粉编程知识博主
 - <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
 
 ## 今年汇总 ✨
